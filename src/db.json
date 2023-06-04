@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "NAME": "Will Smith",
+            "EMAIL": "will@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "John Doe",
+            "EMAIL": "john@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Sam Henry",
+            "EMAIL": "sam@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Tom Base",
+            "EMAIL": "tom@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Yazul Mike",
+            "EMAIL": "yasul@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "hazel paul",
+            "EMAIL": "hazel@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Nail Macson",
+            "EMAIL": "nail@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Paul Norman",
+            "EMAIL": "Paul@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Teylor Steve",
+            "EMAIL": "Teylor@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        },
+        {
+            "NAME": "Sam Curren",
+            "EMAIL": "Curren@gmail.com",
+            "USERTYPE": "Member",
+            "USERSTATUS": "Active"
+        }
+    ]
+}
