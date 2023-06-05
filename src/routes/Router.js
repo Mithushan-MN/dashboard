@@ -14,7 +14,7 @@ const Router = () => {
     <Routes>
 
     {/* <Route path='/' element={<Navigate to ='/dashboard' element= {<Dashboard />}/>}/> */}
-        {/* <Route path='/dashboard' element={<Dashboard />}/> */}
+        <Route path='/dashboard' element={<Dashboard />}/>
         <Route path='/booking' element={<Booking />}/>
         <Route path='/sell-car' element={<SellCar/>}/>
         <Route path='/setting' element={<Setting />}/>
