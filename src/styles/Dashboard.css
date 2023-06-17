@@ -46,11 +46,13 @@ tbody tr th, tbody tr td {
 .filter_left{
     display: flex;
     height: 40px;
+    cursor: pointer;
 }
 .filter_right{
     display: flex;
     height: 40px;
     margin-left: 500px;
+    cursor: pointer;
 }
 .filter_left h5{
     width: 130px;
@@ -81,9 +83,11 @@ tbody tr th, tbody tr td {
     background-color: #dfdfdf;
     border-color: #dfdfdf;
     box-shadow: none;
+    cursor: pointer;
     
 }
 .filter__button h5{
     padding-left: 15px;
     color: #626161;
+    cursor: pointer;
 }
