@@ -1,20 +1,89 @@
-.dashboard{
+.App{
     margin-top: 80px;
-    padding: 50px 10px;
+    /* padding: 50px 10px; */
+    padding-right: 30px;
+    
 }
-table{
+tbody{
     border: 1px solid black;
     border-collapse: collapse;
     width: 100%;
     text-align: center;
+    padding-right: 150px;
 }
 
-table tr{
+tr{
     border-bottom: 1px solid black;
-    background-color: rgb(20.100, 147);
+    background-color: #fff;
+    width: 150px;
+    padding-right: 150px;
+    padding-left: 150px;
+    margin-left: 500px;
+    margin-right: 500px;
     
 }
+th{
+    background-color: #dfdfdf;
+    width: 300px;
+    padding-right: 140px;
+    margin-right: 500px;
+   
 
-table tr th, table tr td {
+}
+
+tbody tr th, tbody tr td {
     padding: 5px;
+    height: 40px;
+    text-align: left;
+    
+   
+}
+
+.filters{
+    display: flex;
+}
+
+.filter_left{
+    display: flex;
+    height: 40px;
+}
+.filter_right{
+    display: flex;
+    height: 40px;
+    margin-left: 500px;
+}
+.filter_left h5{
+    width: 130px;
+}
+.filter_right h5{
+    width: 130px;
+}
+
+.deactive{
+    color: #adabab;
+}
+
+.active_middle{
+    color: #626161;
+}
+
+.filter__button{
+    display: flex;
+   height: 30px;
+   /* justify-content: left; */
+   
+}
+
+.filter__button button{
+    height: 20px;
+    border-radius: 20px;
+    width: 150px;
+    background-color: #dfdfdf;
+    border-color: #dfdfdf;
+    box-shadow: none;
+    
+}
+.filter__button h5{
+    padding-left: 15px;
+    color: #626161;
 }

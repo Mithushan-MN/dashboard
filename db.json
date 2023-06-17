@@ -4,19 +4,22 @@
           "NAME": "Will Smith",
           "EMAIL": "will@gmail.com",
           "USERTYPE": "Member",
-          "USERSTATUS": "Active"
+          "USERSTATUS": "Active",
+          "USERST": ":"
       },
       {
           "NAME": "John Doe",
           "EMAIL": "john@gmail.com",
           "USERTYPE": "Member",
-          "USERSTATUS": "Active"
+          "USERSTATUS": "Active",
+          "USERST": ":"
       },
       {
           "NAME": "Sam Henry",
           "EMAIL": "sam@gmail.com",
           "USERTYPE": "Member",
-          "USERSTATUS": "Active"
+          "USERSTATUS": "Active",
+          "USERST": ":"
       },
       {
           "NAME": "Tom Base",

@@ -4,61 +4,71 @@
             "NAME": "Will Smith",
             "EMAIL": "will@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "John Doe",
             "EMAIL": "john@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Sam Henry",
             "EMAIL": "sam@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Tom Base",
             "EMAIL": "tom@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Yazul Mike",
             "EMAIL": "yasul@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "hazel paul",
             "EMAIL": "hazel@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Nail Macson",
             "EMAIL": "nail@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Paul Norman",
             "EMAIL": "Paul@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Teylor Steve",
             "EMAIL": "Teylor@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         },
         {
             "NAME": "Sam Curren",
             "EMAIL": "Curren@gmail.com",
             "USERTYPE": "Member",
-            "USERSTATUS": "Active"
+            "USERSTATUS": "Active",
+            "USERST": ":"
         }
     ]
 }
